@@ -19,8 +19,9 @@ Antes de comenzar, asegúrate de tener instaladas las siguientes herramientas en
 
 ### 1. Clonar el repositorio
 ```sh
-git clone https://github.com/tu-usuario/tu-repo.git
-cd tu-repo
+git clone https://github.com/CrisAcosMoya/Technical-test-employees.git
+cd Proj-Employees
+cd employees-front
 ```
 
 ### 2. Instalar dependencias
